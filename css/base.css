@@ -1,0 +1,170 @@
+
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#666666;
+	margin:0 auto;
+	padding:0;
+	background-image: url(../img/background.jpg);
+}
+
+em{
+	font-style:italic;
+}
+a{
+	color:#eeeeee;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+
+.container{
+	width:910px;
+	margin: 50px auto 0 auto;
+}
+.main{
+	width:900px;
+	height:500px;
+	background-color:#ffffff;
+	padding-top:10px;
+}
+	
+.titleIcon{
+	width:50px;
+	float:left;
+	margin:10px 0 0 5px;
+}
+
+.header{
+	width:100%;
+	height:65px;
+}
+
+.headerLeft{
+	width:400px;
+	float:left;
+}
+.headerRight{
+	width:490px;
+	float:right;
+}
+.headerRight img{
+	margin:0 4px 1px 0;
+}
+.slogan{
+	width:100%;
+	text-align:right;
+	font-size:10px;
+	margin: 17px 0 0 0;
+}
+.main_wrapper{
+	width:900px;
+	height:640px;
+	border:solid thick #d7d7d7;
+}
+
+.nav{
+	width:100%;
+	height:40px;
+	background-color:#2f2f2f;
+	color:#ffffff;
+}
+.navItem{
+	color:#eeeeee;
+	margin:15px auto 0 auto;
+	font-size:12px;
+	text-align:center;
+}
+.navCategory{
+	width:178px;
+	height:40px;
+	float:left;
+	border-right:thin solid #444444;
+}
+.navCategoryRight{
+	width:179px;
+	height:40px;
+	float:left;
+}
+
+.main_right{
+	width:200px;
+	float:right;
+	margin:12px 0 0 0;
+}
+
+.main_mid{
+	width: 820px;
+	background-color:#8d8d8d;
+	height:540px;
+	padding: 40px 40px 20px 40px;
+	color:#ffffff;
+	font-size:12px;
+}
+
+
+.leftColumn{
+	width:230px;
+	float:left;
+	height: 500px;
+	border-right:thin solid #999999;
+}
+.leftColumn_text{
+	margin: 0 40px 0 0;
+	color:#ffffff;
+	font-size:13px;
+}
+.rightColumn{
+	width:540px;
+	float:right;
+}
+.topRightRow{
+	width:540px;
+	float:right;
+	border-bottom:thin solid #999999;
+}
+.textTitle{
+	text-align:left;
+	font-size:15px;
+	color:#e1e1e1;
+	margin:0 0 20px 0;
+}
+.RightRow_text{
+	color:#ffffff;
+	font-size:13px;
+	margin:0 0 40px 0;
+}
+.bottomRightRow{
+	width:540px;
+	float:right;
+	margin: 40px 0 0 0;
+}
+
+.small{font:10px;}
+
+.footer { 
+	height:35px;
+	font-size:10px;
+	color:#999999;
+}
+.footerLeft{
+	width:450px;
+	float:left;
+	margin:5px 0 0 0px;
+}
+.footer a{
+ text-decoration:none;
+ font-weight:normal;
+ color:#999999;
+}
+.footer img{
+	margin:0 4px 1px 5px;
+}
+
+.clearfloat { 
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
